@@ -1,0 +1,9 @@
+E:\Cizon\Cizon\Cizon\Cizon.CMS.MVC\bin\Debug\netcoreapp1.1\Cizon.CMS.MVC.deps.json
+E:\Cizon\Cizon\Cizon\Cizon.CMS.MVC\bin\Debug\netcoreapp1.1\Cizon.CMS.MVC.runtimeconfig.json
+E:\Cizon\Cizon\Cizon\Cizon.CMS.MVC\bin\Debug\netcoreapp1.1\Cizon.CMS.MVC.runtimeconfig.dev.json
+E:\Cizon\Cizon\Cizon\Cizon.CMS.MVC\bin\Debug\netcoreapp1.1\Cizon.CMS.MVC.dll
+E:\Cizon\Cizon\Cizon\Cizon.CMS.MVC\obj\Debug\netcoreapp1.1\Cizon.CMS.MVC.csprojResolveAssemblyReference.cache
+E:\Cizon\Cizon\Cizon\Cizon.CMS.MVC\obj\Debug\netcoreapp1.1\Cizon.CMS.MVC.AssemblyInfo.cs
+E:\Cizon\Cizon\Cizon\Cizon.CMS.MVC\bin\Debug\netcoreapp1.1\Cizon.CMS.MVC.pdb
+E:\Cizon\Cizon\Cizon\Cizon.CMS.MVC\obj\Debug\netcoreapp1.1\Cizon.CMS.MVC.dll
+E:\Cizon\Cizon\Cizon\Cizon.CMS.MVC\obj\Debug\netcoreapp1.1\Cizon.CMS.MVC.pdb

@@ -1,0 +1,11 @@
+E:\Cizon\Cizon\Cizon\Cizon.Utility\bin\Debug\netcoreapp2.0\Cizon.Utility.deps.json
+E:\Cizon\Cizon\Cizon\Cizon.Utility\bin\Debug\netcoreapp2.0\Cizon.Utility.dll
+E:\Cizon\Cizon\Cizon\Cizon.Utility\bin\Debug\netcoreapp2.0\Cizon.Utility.pdb
+E:\Cizon\Cizon\Cizon\Cizon.Utility\obj\Debug\netcoreapp2.0\Cizon.Utility.csprojResolveAssemblyReference.cache
+E:\Cizon\Cizon\Cizon\Cizon.Utility\obj\Debug\netcoreapp2.0\Cizon.Utility.csproj.CoreCompileInputs.cache
+E:\Cizon\Cizon\Cizon\Cizon.Utility\obj\Debug\netcoreapp2.0\Cizon.Utility.AssemblyInfoInputs.cache
+E:\Cizon\Cizon\Cizon\Cizon.Utility\obj\Debug\netcoreapp2.0\Cizon.Utility.AssemblyInfo.cs
+E:\Cizon\Cizon\Cizon\Cizon.Utility\obj\Debug\netcoreapp2.0\Cizon.Utility.dll
+E:\Cizon\Cizon\Cizon\Cizon.Utility\obj\Debug\netcoreapp2.0\Cizon.Utility.pdb
+E:\Cizon\Cizon\Cizon\Cizon.Utility\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+E:\Cizon\Cizon\Cizon\Cizon.Utility\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml

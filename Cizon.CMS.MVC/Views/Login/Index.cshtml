@@ -1,0 +1,108 @@
+﻿@{
+    Layout = null;
+}
+@model Cizon.CMS.MVC.Models.LoginModel
+<!DOCTYPE html>
+
+<html >
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Cizon CMS</title>
+    <meta name="description" content="Cizon CMS">
+    <meta name="keywords" content="index">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <link rel="icon" type="image/png" href="~/assets/i/favicon.png">
+    <link rel="apple-touch-icon-precomposed" href="~/assets/i/app-icon72x72@2x.png">
+    <meta name="apple-mobile-web-app-title" content="Cizon CMS" />
+    <link rel="stylesheet" href="~/assets/css/amazeui.min.css" />
+    <link rel="stylesheet" href="~/assets/css/amazeui.datatables.min.css" />
+    <link rel="stylesheet" href="~/assets/css/app.css">
+    <script src="~/assets/js/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="~/lib/jquery.cookie/jquery.cookie.js"></script>
+    <script src="~/lib/layer/build/layer.js"></script>
+</head>
+
+<body data-type="login">
+    <script src="assets/js/theme.js"></script>
+    <div class="am-g tpl-g">
+    
+        <div class="tpl-skiner">
+            <div class="tpl-skiner-toggle am-icon-cog">
+            </div>
+            <div class="tpl-skiner-content">
+                <div class="tpl-skiner-content-title">
+                    选择主题
+                </div>
+                <div class="tpl-skiner-content-bar">
+                    <span class="skiner-color skiner-white" data-color="theme-white"></span>
+                    <span class="skiner-color skiner-black" data-color="theme-black"></span>
+                </div>
+            </div>
+        </div>
+        <div class="tpl-login">
+            <div class="tpl-login-content">
+                <div class="tpl-login-logo">
+                </div>
+                <input id="errorInfo" type="hidden" value="@ViewBag.ErrorInfo" />
+                <form class="am-form tpl-form-border-form" asp-controller="Login" asp-action="Index" method="post" onsubmit="onSubmit()">
+                    <div class="am-form-group">
+                        <input type="text" class="tpl-form-input" asp-for="username" placeholder="请输入账号">
+                    </div>
+
+                    <div class="am-form-group">
+                        <input type="password" class="tpl-form-input" asp-for="password" placeholder="请输入密码">
+                    </div>
+                    <div class="am-form-group tpl-login-remember-me">
+                        <input asp-for="remember_me" type="checkbox">
+                        <label for="remember_me">
+                            记住密码
+                        </label>
+
+                    </div>
+                    <div class="am-form-group">
+                        <button id="btnLogin" type="submit" class="am-btn am-btn-primary  am-btn-block tpl-btn-bg-color-success  tpl-login-btn">提交</button>
+
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script src="assets/js/amazeui.min.js"></script>
+    <script src="assets/js/app.js"></script>
+    <script>
+         $(function () {
+             //显示服务端验证的错误信息
+             if ($("#errorInfo").val()) {
+                 layer.tips($("#errorInfo").val(), "#btnLogin");
+             };
+
+             //判断之前是否有设置cookie，如果有，则设置【记住我】选择框
+             if ($.cookie("fonour_userName") != undefined) {
+                 $("#remember_me").attr("checked", "checked");
+             }
+             else {
+                 $("#remember_me").removeAttr("checked");
+             }
+             //读取cookie
+             if ($("#remember_me:checked").length > 0) {
+                 $("#username").val($.cookie("fonour_userName"));
+                 $("#password").val($.cookie("fonour_password"));
+             }
+         });
+         //根据是否勾选记住我记录或清除cookie
+         function onSubmit() {
+             if ($("#remember_me:checked").length > 0) {//设置cookie
+                 $.cookie("fonour_userName", $("#username").val());
+                 $.cookie("fonour_password", $("#password").val());
+             } else {//清除cookie
+                 $.removeCookie("fonour_userName");
+                 $.removeCookie("fonour_password");
+             }
+         };
+    </script>
+</body>
+</html>

@@ -1,0 +1,4 @@
+E:\Cizon\Cizon\Cizon\Cizon.EntityFrameworkCore\obj\Debug\netcoreapp1.1\Cizon.EntityFrameworkCore.csprojResolveAssemblyReference.cache
+E:\Cizon\Cizon\Cizon\Cizon.EntityFrameworkCore\obj\Debug\netcoreapp1.1\Cizon.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+E:\Cizon\Cizon\Cizon\Cizon.EntityFrameworkCore\obj\Debug\netcoreapp1.1\Cizon.EntityFrameworkCore.AssemblyInfoInputs.cache
+E:\Cizon\Cizon\Cizon\Cizon.EntityFrameworkCore\obj\Debug\netcoreapp1.1\Cizon.EntityFrameworkCore.AssemblyInfo.cs

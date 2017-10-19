@@ -1,0 +1,9 @@
+E:\Cizon\Cizon\Cizon\Cizon.Domain\bin\Debug\netcoreapp2.0\Cizon.Domain.deps.json
+E:\Cizon\Cizon\Cizon\Cizon.Domain\bin\Debug\netcoreapp2.0\Cizon.Domain.dll
+E:\Cizon\Cizon\Cizon\Cizon.Domain\bin\Debug\netcoreapp2.0\Cizon.Domain.pdb
+E:\Cizon\Cizon\Cizon\Cizon.Domain\obj\Debug\netcoreapp2.0\Cizon.Domain.csproj.CoreCompileInputs.cache
+E:\Cizon\Cizon\Cizon\Cizon.Domain\obj\Debug\netcoreapp2.0\Cizon.Domain.AssemblyInfoInputs.cache
+E:\Cizon\Cizon\Cizon\Cizon.Domain\obj\Debug\netcoreapp2.0\Cizon.Domain.AssemblyInfo.cs
+E:\Cizon\Cizon\Cizon\Cizon.Domain\obj\Debug\netcoreapp2.0\Cizon.Domain.dll
+E:\Cizon\Cizon\Cizon\Cizon.Domain\obj\Debug\netcoreapp2.0\Cizon.Domain.pdb
+E:\Cizon\Cizon\Cizon\Cizon.Domain\obj\Debug\netcoreapp2.0\Cizon.Domain.csprojResolveAssemblyReference.cache

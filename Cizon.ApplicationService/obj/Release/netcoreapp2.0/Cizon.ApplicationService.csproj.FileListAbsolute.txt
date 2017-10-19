@@ -1,0 +1,11 @@
+E:\Cizon\Cizon\Cizon\Cizon.ApplicationService\bin\Release\netcoreapp2.0\Cizon.ApplicationService.deps.json
+E:\Cizon\Cizon\Cizon\Cizon.ApplicationService\bin\Release\netcoreapp2.0\Cizon.ApplicationService.dll
+E:\Cizon\Cizon\Cizon\Cizon.ApplicationService\bin\Release\netcoreapp2.0\Cizon.ApplicationService.pdb
+E:\Cizon\Cizon\Cizon\Cizon.ApplicationService\bin\Release\netcoreapp2.0\Cizon.Domain.dll
+E:\Cizon\Cizon\Cizon\Cizon.ApplicationService\bin\Release\netcoreapp2.0\Cizon.Domain.pdb
+E:\Cizon\Cizon\Cizon\Cizon.ApplicationService\obj\Release\netcoreapp2.0\Cizon.ApplicationService.csprojResolveAssemblyReference.cache
+E:\Cizon\Cizon\Cizon\Cizon.ApplicationService\obj\Release\netcoreapp2.0\Cizon.ApplicationService.csproj.CoreCompileInputs.cache
+E:\Cizon\Cizon\Cizon\Cizon.ApplicationService\obj\Release\netcoreapp2.0\Cizon.ApplicationService.AssemblyInfoInputs.cache
+E:\Cizon\Cizon\Cizon\Cizon.ApplicationService\obj\Release\netcoreapp2.0\Cizon.ApplicationService.AssemblyInfo.cs
+E:\Cizon\Cizon\Cizon\Cizon.ApplicationService\obj\Release\netcoreapp2.0\Cizon.ApplicationService.dll
+E:\Cizon\Cizon\Cizon\Cizon.ApplicationService\obj\Release\netcoreapp2.0\Cizon.ApplicationService.pdb
