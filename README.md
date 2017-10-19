@@ -1,2 +1,2 @@
 # Cizon.AspnetCore.CMS
-AspnetCore
+AspnetCore2.0+EF+mysql+ameiziui
